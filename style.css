@@ -55,11 +55,11 @@
 }
 
 .tasks-block__input-text,
-.tasks-block__button {
+.tasks-block__btn {
   outline: none;
 }
 
-.tasks-block__button {
+.tasks-block__btn {
   background: none;
   border: 0px;
   color: #888;
@@ -69,7 +69,7 @@
   cursor: pointer;
 }
 
-.tasks-block__button:hover {
+.tasks-block__btn:hover {
   color: #3a3a3a;
 }
 
@@ -126,7 +126,7 @@
 .tasks-block__list-item >
 .tasks-block__text,
 .tasks-block__list-item >
-.tasks-block__button {
+.tasks-block__btn {
   vertical-align: middle;
 }
 
